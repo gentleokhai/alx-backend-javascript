@@ -18,7 +18,6 @@ module.exports = {
   },
   plugins: ['jest'],
   rules: {
-    'linebreak-style': ['error', 'windows']
     'no-console': 'off',
     'no-shadow': 'off',
     'no-restricted-syntax': [
